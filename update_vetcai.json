@@ -1,0 +1,10 @@
+ {                                                                                                                                                                     
+    "ai": {                                                                                                                                                             
+      "version": "1.2.0",                                                                                                                                               
+      "link": "https://s3-link-to-apk..."                                                                                                                               
+    },                                                                                                                                                                  
+    "assistant": {                                                                                                                                                      
+      "version": "1.2.0",                                                                                                                                               
+      "link": "https://s3-link-to-apk..."                                                                                                                               
+    }                                                                                                                                                                   
+  }        
