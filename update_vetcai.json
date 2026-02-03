@@ -1,10 +1,10 @@
  {                                                                                                                                                                     
     "ai": {                                                                                                                                                             
-      "version": "1.2.0",                                                                                                                                               
+      "version": "1.3.0",                                                                                                                                               
       "link": "https://github.com/tomtran142/txxttx/releases/download/v2/app-debug.apk"                                                                                                                               
     },                                                                                                                                                                  
     "assistant": {                                                                                                                                                      
-      "version": "1.2.0",                                                                                                                                               
+      "version": "1.3.0",                                                                                                                                               
       "link": "https://s3-link-to-apk..."                                                                                                                               
     }                                                                                                                                                                   
   }        
